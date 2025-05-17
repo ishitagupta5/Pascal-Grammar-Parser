@@ -1,0 +1,8 @@
+input-line => alice found mean green book
+	(((alice)) (found) (((mean(green))book)))
+input-line => mean cow saw carefully green alice with book
+	((((mean)cow)) (saw carefully) (((green)alice(with(book)))))
+input-line => fred saw green book
+	Input has invalid tokens.
+input-line => alice found mean saw book
+	Input is not a sentence.
